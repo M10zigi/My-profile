@@ -11,7 +11,10 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 
 
-- 🛡️ **Skills**: Vulnerability Assessment, Patch Management, IT Auditing, Network Security, SIEM, Incident Response, System Administration, Scripting and Automation for Threat Mitigation, Cyber Website Automation, Threat Hunting & Intelligence, EDR Detection + Scripting, Case Management with TheHive, Data Security and Compliance, Data Flow Optimization, Risk Assessment.
+## 🛡️Technical Skills
+Languages/Scripting: Python · Bash · PowerShell · HTML · CSS · Java · Ruby · SQL
+
+Core Competencies: Vulnerability Assessment · Patch Management · IT Auditing · Network Security · SIEM · Incident Response · System Administration · Scripting & Automation for Threat Mitigation · Cyber Website Automation · Threat Hunting & Intelligence · EDR Detection + Scripting · Case Management (TheHive) · Data Security & Compliance · Data Flow Optimization · Risk Assessment
   
 ## 💡Passion & Areas of Interest
  Investigating cyber threats, purple teaming, and cloud security
