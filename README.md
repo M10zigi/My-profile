@@ -65,5 +65,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Certification | Badge |
 |---------------|--------|
-| CompTIA Security+ | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)]|
+| CompTIA Security+ | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)
 
