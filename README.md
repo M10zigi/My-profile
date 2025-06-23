@@ -33,6 +33,14 @@ Documenting hands-on cybersecurity projects, home labs,  CTFs, and research to s
     <img src="https://img.shields.io/badge/-Active%20Directory-FFFFE0?&style=for-the-badge&logo=ActiveDirectory&logoColor=black" />
 </div>
 
+### Operating Systems
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Windows Server-0078D4?&style=for-the-badge&logo=-Windows&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Kali Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-F08080?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Macintosh-005571?&style=for-the-badge&logo=Macintosh&logoColor=white" />
+</div>
+
 ### Endpoint
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/-Nessus-F5FFFA?&style=for-the-badge&logo=Tenable&logoColor=black" />
