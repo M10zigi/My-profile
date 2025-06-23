@@ -1,4 +1,3 @@
-# My-profile
 # 💡 Welcome to Manny's Cybersecurity Hub! 
 <a href="https://www.linkedin.com/in/manny-ozigi-722861232/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
