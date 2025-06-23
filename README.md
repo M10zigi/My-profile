@@ -8,8 +8,7 @@ Hello, I’m a cybersecurity professional with hands-on experience in threat int
 <a href="https://www.linkedin.com/in/manny-ozigi-722861232/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🎯 Objective
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to bring value in security/cloud security to help safeguard valuable assets as an aspiring security professional.
-
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now seeking to contribute to proactive security initiatives and risk mitigation strategies. Passionate about leveraging technical expertise and analytical thinking to protect digital assets and drive continuous security improvements.
 
 
 ## 🛡️Technical Skills
