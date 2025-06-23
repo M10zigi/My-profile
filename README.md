@@ -1,5 +1,5 @@
 # 👋 Welcome to Manny's Cybersecurity Hub! 
-- 🎓 **Education**: M.S. in Cyber Secirity Risk Management - B.S. in Information Technology with a concentration in Cyber Security
+ 🎓 **Education**: M.S. in Cyber Secirity Risk Management - B.S. in Information Technology with a concentration in Cyber Security
 
 <a href="https://www.linkedin.com/in/manny-ozigi-722861232/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
