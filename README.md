@@ -22,7 +22,7 @@ Core Competencies: Vulnerability Assessment · Patch Management · IT Auditing �
 ## 💻 Ongoing Work & Projects
 Documenting hands-on cybersecurity projects, home labs,  CTFs, and research to showcase real-world problem-solving and technical expertise, Threat Hunting and Intrusion Detection System (IDS) Development.
 
-# Tools
+# ⚒️Tools
 
 ### Network
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
