@@ -8,7 +8,7 @@ Hello, I am a recent graduate with a profound interest in IT, cloud & cybersecur
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to bring value in security/cloud security to help safeguard valuable assets as an aspiring security professional.
 
 - 🎓 **Education**: M.S. in Cyber Secirity Risk Management
-- B.S. in Information Technology with a concentration in Cyber Security
+                    B.S. in Information Technology with a concentration in Cyber Security
 - 📚 **Certifications**: CompTIA Security+, CISA
 - 🛡️ **Skills**: Vulnerability Assessment, Patch Management, IT Auditing, Network Security, SIEM, Incident Response, System Administration, Scripting and Automation for Threat Mitigation, Cyber Website Automation, Threat Hunting & Intelligence, EDR Detection + Scripting, Case Management with TheHive, Data Security and Compliance, Data Flow Optimization, Risk Assessment.
 - 💡 **Passion**: Investigating cyber threats, purple teaming, and cloud security
