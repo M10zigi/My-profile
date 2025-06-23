@@ -60,3 +60,10 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-ServiceNow-F08080?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
+
+## 📜 Certifications
+
+| Certification | Badge |
+|---------------|--------|
+| CompTIA Security+ | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)]|
+
