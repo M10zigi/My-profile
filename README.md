@@ -1,7 +1,7 @@
 # 👋 Welcome to Manny's Cybersecurity Hub! 
 
 ## 🧠 About Me
-Hello, I’m a cybersecurity professional with hands-on experience in threat intelligence, incident response, and system hardening, backed by a strong academic foundation in Cybersecurity Risk Management from Georgetown University. I've worked on securing enterprise systems at companies like H&R Block, Oracle Fields, and Sage Analytics, focusing on threat detection, data protection, and vulnerability management. Passionate about cyber defense and continuous learning, I document real-world projects and research to sharpen my technical and investigative skills!
+Hello, I’m a cybersecurity professional with hands-on experience in threat intelligence, incident response, and system hardening, backed by a strong academic foundation in Cybersecurity Risk Management from Georgetown University. I've worked on securing enterprise systems focusing on threat detection, data protection, and vulnerability management. Passionate about cyber defense and continuous learning, I document real-world projects and research to sharpen my technical and investigative skills!
 
  🎓 **Education**: M.S. in Cyber Secirity Risk Management - B.S. in Information Technology with a concentration in Cyber Security
 
